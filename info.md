@@ -8,3 +8,4 @@
 | https://github.com/create-bounty | feature-maker | wefwe | wefw | 0.0001 | usdc | 0x9f63de96a21f89737c445c6af9bc7cf9090698e25018175b15a6763162595b9e |
 | https://github.com/koii-network/docs | bug-hunter | 21312 | 3123123 | 0.0005 | usdc | 0x4f25c3086193457b03572ce81d4b564a6a3f5137f1b028af7c640d884fb5dd47 |
 | https://github.com/create-bounty | feature-maker | wef | gyg | 0.001 | usdc | 0x1ce2ef2be8685a1767d97890cb2a49a1bda9714341ddc47826faf919e47fb3ce |
+| https://github.com/koii-network/docs | feature-maker | 123123 | 123123 | 0.055 | usdc | 0xbddf4b625f56683f5cd38119218fa2dcef9d5be5a2d40e55ebcf1052034abb55 |
