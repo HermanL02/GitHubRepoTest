@@ -11,3 +11,4 @@
 | https://github.com/koii-network/docs | feature-maker | 123123 | 123123 | 0.055 | usdc | 0xbddf4b625f56683f5cd38119218fa2dcef9d5be5a2d40e55ebcf1052034abb55 |
 | https://github.com/test | bug-hunter | Haha | Hahah please | 0.0001 | usdc | 0x67c979ee6f104eb0c7305ef2aa9014b09d8b4775242c19f2716f4299d154f7ac |
 | https://github.com/create-bounty | feature-maker | test | test | 0.00001 | usdc | 0x0114ff225517a3700d8afeb66ab618e374d1a23540f9fceccf0874f102e997d1 |
+| https://github.com/create-bounty | feature-maker | test | test | 0.0001 | usdc | oxoxoxoxoxoxo |
